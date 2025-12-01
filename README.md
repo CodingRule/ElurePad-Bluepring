@@ -1,4 +1,5 @@
-\# ElurePad-Bluepring
+# ElurePad-Bluepring
+Started the project on 28th of November 2025
 
 This project is meant for the Bluepring Competition!
 
