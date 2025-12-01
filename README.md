@@ -14,6 +14,7 @@ This project is meant for the Bluepring Competition!
 | 5  | Blank DSA keycap (white)                      | 11 pieces  |
 | 6  | M3x16mm screw                                 | 11 pieces  |
 | 7  | 3D printed case                               | 1 piece    |
+| 8  | Custom PCB grant                              | 1 piece    |
 
 # GO TO JOURNAL.md For journal and images
 [JOURNAL.md](JOURNAL.md)
