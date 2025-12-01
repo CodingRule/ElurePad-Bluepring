@@ -1,4 +1,4 @@
-ID,COMPONENT,QTY
+ID,COMPONENT,QTY, PRICE
 1,Seeed XIAO RP2040,"1 piece"
 2,Through-hole 1N4148 diode,"10 pieces"
 3,MX-style switch,"10 pieces"
@@ -6,4 +6,4 @@ ID,COMPONENT,QTY
 5,Blank DSA keycap (white),"11 pieces"
 6,M3x16mm screw,"11 pieces"
 7,3D printed case,"1 piece"
-8,Custom PCB grant,"1 piece"
+8,Custom PCB grant,"1 piece", 5,30$
