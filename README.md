@@ -16,6 +16,8 @@ This project is meant for the Bluepring Competition!
 | 7  | 3D printed case                               | 1 piece    |kit          |
 | 8  | Custom PCB grant                              | 1 piece    |5.30$        |
 
+![PCB Custom JLCPCB](https://i.imgur.com/UEH5ZpJ.png)
+
 # GO TO JOURNAL.md For journal and images
 [JOURNAL.md](JOURNAL.md)
 
