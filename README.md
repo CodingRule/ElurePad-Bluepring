@@ -13,8 +13,9 @@ This project is meant for the Bluepring Competition!
 | 4  | 0.91 inch OLED display (GND-VCC-SCL-SDA)      | 1 piece    |kit          |
 | 5  | Blank DSA keycap (white)                      | 11 pieces  |kit          |
 | 6  | M3x16mm screw                                 | 11 pieces  |kit          |
-| 7  | 3D printed case                               | 1 piece    |kit          |
-| 8  | Custom PCB grant (LeadFree)                   | 5 pieces   |4.80$        |
+| 7  | M3 inserts                                    | 11 pieces  |kit          |
+| 8  | 3D printed case                               | 1 piece    |kit          |
+| 9  | Custom PCB grant (LeadFree)                   | 5 pieces   |4.80$        |
 
 ![PCB Custom JLCPCB](https://i.imgur.com/Sjn3cre.png)
 
